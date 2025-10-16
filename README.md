@@ -115,7 +115,7 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
 ### 📫 **Connect With Me**
 - 📧 **Email:** dhanushp972003@gmail.com  
 - <p align="left">
-  <a href="https://linkedin.com/in/muhammedjaseelp" target="_blank">
+  <a href="https://linkedin.com/in/dhanushp7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanushp7" height="30" width="40" />
   </a>
 </p>
