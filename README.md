@@ -68,6 +68,45 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
 
 ---
 
+## 📊 **GitHub Stats & Activity**
+
+<p align="center">
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushP7&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhanushP7&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushP7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 **GitHub Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhanushP7&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🚀 **Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushP7&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 👀 **Profile Views**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhanushP7&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 ### 📫 **Connect With Me**
 - 📧 **Email:** dhanushp972003@gmail.com  
 - 💼 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/dhanushp7/)]   
