@@ -2,45 +2,6 @@
 
 **`AI/ML Engineer | Data Science Enthusiast | Aspiring Data Analyst`**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 👋 **About Me**
-I am **Dhanush P**, a passionate **AI/ML and Data Science enthusiast**, driven by the mission to convert data into actionable insights and build intelligent solutions.  
-Currently, I am expanding my expertise in **Data Analytics** (Power BI, SQL) and **backend integration** (FastAPI), while creating hands-on projects that strengthen my practical skills.
-
-- 🎓 **Fresher** exploring opportunities in AI, Machine Learning, and Data Analytics.  
-- 🧠 Passionate about **AI-powered systems**, **data visualization**, and **automating processes**.  
-- 🚀 Currently building a **Face Attendance System** and working on **Power BI dashboards**.  
-- 💡 Strong belief in *“learning by building”* — every project is a step toward expertise.  
-
----
-
-### 🧰 **Technical Skills**
-
-**Languages & Libraries:**  
-`Python` | `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `OpenCV` | `TensorFlow/Keras` | `Scikit-learn` | `NLTK` | `Neural Networks` | `NLP`
-
-**Databases & Tools:**  
-`MySQL` | `Power BI` | `FastAPI` | `Git/GitHub`
-
-**Frontend & Web Technologies:**  
-`HTML` | `CSS` | `React`
-
-**Other Skills:**  
-Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | Backend API Integration
-
----
-
-## 🧠 **Languages & Tools**
-
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -89,6 +50,32 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
   </a>
 </p>
 
+---
+
+### 👋 **About Me**
+I am **Dhanush P**, a passionate **AI/ML and Data Science enthusiast**, driven by the mission to convert data into actionable insights and build intelligent solutions.  
+Currently, I am expanding my expertise in **Data Analytics** (Power BI, SQL) and **backend integration** (FastAPI), while creating hands-on projects that strengthen my practical skills.
+
+- 🎓 **Fresher** exploring opportunities in AI, Machine Learning, and Data Analytics.  
+- 🧠 Passionate about **AI-powered systems**, **data visualization**, and **automating processes**.  
+- 🚀 Currently building a **Face Attendance System** and working on **Power BI dashboards**.  
+- 💡 Strong belief in *“learning by building”* — every project is a step toward expertise.  
+
+---
+
+### 🧰 **Technical Skills**
+
+**Languages & Libraries:**  
+`Python` | `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `OpenCV` | `TensorFlow/Keras` | `Scikit-learn` | `NLTK` | `Neural Networks` | `NLP`
+
+**Databases & Tools:**  
+`MySQL` | `Power BI` | `FastAPI` | `Git/GitHub`
+
+**Frontend & Web Technologies:**  
+`HTML` | `CSS` | `React`
+
+**Other Skills:**  
+Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | Backend API Integration
 ---
 
 ### 🚀 **Key Projects**
