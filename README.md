@@ -71,14 +71,3 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
 ### 📫 **Connect With Me**
 - 📧 **Email:** dhanushp972003@gmail.com  
 - 💼 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/dhanushp7/)]   
-
----
-
-### 🏆 **GitHub Stats**
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
-
----
-
-### 💬 **Visitor Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Visits&color=blueviolet&style=flat-square)
