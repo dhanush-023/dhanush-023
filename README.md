@@ -52,6 +52,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jz3el&label=Profile%20views&color=0e75b6&style=flat" alt="jz3el" />
+</p>
+
+
 ### 👋 **About Me**
 I am **Dhanush P**, a passionate **AI/ML and Data Science enthusiast**, driven by the mission to convert data into actionable insights and build intelligent solutions.  
 Currently, I am expanding my expertise in **Data Analytics** (Power BI, SQL) and **backend integration** (FastAPI), while creating hands-on projects that strengthen my practical skills.
@@ -111,6 +116,26 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
 - 📧 **Email:** dhanushp972003@gmail.com  
 - <p align="left">
   <a href="https://linkedin.com/in/muhammedjaseelp" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedjaseelp" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanushp7" height="30" width="40" />
   </a>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jz3el&theme=gruvbox&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jz3el&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jz3el&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
