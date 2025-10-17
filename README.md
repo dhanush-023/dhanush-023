@@ -120,22 +120,3 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jz3el&theme=gruvbox&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jz3el&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jz3el&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
