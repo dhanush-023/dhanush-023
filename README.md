@@ -97,6 +97,11 @@ Data Cleaning | Data Visualization | Feature Engineering | Model Optimization | 
 - Real-time **mask detection** using **Keras Neural Networks** and **OpenCV** on live video feeds.  
 - High accuracy in diverse lighting and face orientations.
 
+#### 💬 **AI Chatbot using NLP**
+- Developed an intelligent **chatbot** using **Natural Language Processing (NLP)** for automated conversations.  
+- Utilizes **intent recognition and response generation** to deliver context-aware, human-like replies.  
+- Integrated with **Python and NLTK** to handle multiple intents and improve response accuracy through continuous learning.
+
 #### 🛠 **Ongoing Learning Projects**
 - Power BI dashboards for **business intelligence**.  
 - Backend integration of ML models using **FastAPI**.  
